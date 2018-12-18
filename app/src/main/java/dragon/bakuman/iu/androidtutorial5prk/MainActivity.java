@@ -1,10 +1,12 @@
 package dragon.bakuman.iu.androidtutorial5prk;
 
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
-import android.widget.Button;
+
+
+// CTRL ALT O to remove unwanted imports!
 
 public class MainActivity extends AppCompatActivity {
 
